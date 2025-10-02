@@ -1,0 +1,14 @@
+Oct 02, 2025 12:02:19 PM edu.virtualclassroom.ClassroomManager <init>
+INFO: ClassroomManager initialized.
+Oct 02, 2025 12:03:02 PM edu.virtualclassroom.ClassroomManager addClassroom
+INFO: Classroom added: social_studies
+Oct 02, 2025 12:05:30 PM edu.virtualclassroom.ClassroomManager enrollStudent
+INFO: Created new Student record: 22bcp316
+Oct 02, 2025 12:05:30 PM edu.virtualclassroom.ClassroomManager enrollStudent
+INFO: Student 22bcp316 enrolled in social_studies
+Oct 02, 2025 12:08:30 PM edu.virtualclassroom.ClassroomManager scheduleAssignment
+INFO: Assignment scheduled: Assignment 2 for class social_studies (id=9da58dfb)
+Oct 02, 2025 12:10:43 PM edu.virtualclassroom.ClassroomManager submitAssignment
+INFO: Submission accepted: 606f0943 (student=22bcp316, assignment=9da58dfb)
+Oct 02, 2025 12:16:45 PM edu.virtualclassroom.ClassroomManager <init>
+INFO: ClassroomManager initialized.
